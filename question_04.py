@@ -20,7 +20,7 @@ Although 19 is prime, 91 is not.
 
 Write your code bellow
 """
-n=int(input("PLease enter the number to rotate and check"))
+n=int(input("PLease enter the number"))
 n=str(n)
 l=[]
 for i in range(len(n)):
