@@ -16,7 +16,7 @@ Explanation:
 - 13 is replaced since it has a 3 in the number.
 - 16 is replaced since it has a 6 in the number.
 
-Write your code here
+Write your code here AAAA
 """
 n=int(input("PLease enter the number"))
 l=[]
